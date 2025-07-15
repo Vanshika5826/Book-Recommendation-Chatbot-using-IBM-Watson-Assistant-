@@ -3,6 +3,7 @@
 
 ## 📖 Project Overview
 This is an intelligent book recommendation chatbot built with IBM Watson Assistant that helps users discover books, get author information, find audiobook details, and receive personalized reading suggestions. The chatbot understands natural language queries and provides relevant responses based on a comprehensive knowledge base of books and authors.
+![front](https://github.com/user-attachments/assets/53cad24f-a655-41ad-8941-f0d4685c4f83)
 
 ## ✨ Features
 
